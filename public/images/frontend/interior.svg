@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120.208" height="120.208" viewBox="0 0 120.208 120.208">
+  <g id="Group_27" data-name="Group 27" transform="translate(-895.395 -3973.948)">
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="85" height="85" rx="9" transform="translate(1015.604 4034.052) rotate(135)" fill="#01031a"/>
+    <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(918 3996.052)">
+      <g id="Rectangle_53" data-name="Rectangle 53" fill="#fff" stroke="#01031a" stroke-width="1">
+        <rect width="75" height="76" rx="9" stroke="none"/>
+        <rect x="0.5" y="0.5" width="74" height="75" rx="8.5" fill="none"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(-1880.422 -271.446)">
+        <path id="Rectangle_54" data-name="Rectangle 54" d="M2.626,0h0A2.626,2.626,0,0,1,5.252,2.626V28.047a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.626A2.626,2.626,0,0,1,2.626,0Z" transform="matrix(-0.545, -0.838, 0.838, -0.545, 1897.24, 311.133)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Rectangle_55" data-name="Rectangle 55" d="M2.626,0h0A2.626,2.626,0,0,1,5.252,2.626V27.973a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.626A2.626,2.626,0,0,1,2.626,0Z" transform="translate(1941.465 306.581) rotate(122.737)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_56" data-name="Rectangle 56" width="1.562" height="18.879" transform="translate(1898.666 308.566)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectangle_57" data-name="Rectangle 57" width="1.562" height="18.879" transform="translate(1935.381 308.566)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_4" data-name="Path 4" d="M2102.095,302.592v-5.045h5.34v7.334Z" transform="translate(-170.492 -5.008)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_5" data-name="Path 5" d="M2061.458,404.789h4.007l1.494,5.365h-6.927Z" transform="translate(-135.967 -93.031)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_6" data-name="Path 6" d="M2068.937,448.243h3.735v-.509h-1.392v-8.082h-.883V447.7h-1.46Z" transform="translate(-143.276 -121.647)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_7" data-name="Path 7" d="M1948.851,404.735v-3.667s-.068-1.121,1.46-1.222,7.131,0,7.131,0,1.121-.034,1.155,1.834l.034,1.868V404.9a2.067,2.067,0,0,1,2.377,0c1.29.849.374,2.513-.883,2.751-.034,4.482-.034,6.146-.034,6.146s0,.441-.645.543a6.085,6.085,0,0,1-.951,0l-10.561.015s-.543.053-.543-1.136v-5.637s-1.6-.1-1.46-2.105C1946.474,403.716,1948.715,404.463,1948.851,404.735Z" transform="translate(-42.307 -88.936)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x2="8.851" transform="translate(1907.042 318.527)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_5" data-name="Line 5" x2="8.851" transform="translate(1907.042 320.179)" fill="none" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_8" data-name="Path 8" d="M1962.761,436.962v-8.437a1.251,1.251,0,0,0-.5-1.188" transform="translate(-55.719 -111.538)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_9" data-name="Path 9" d="M2014.4,437.724v-8.195s-.091-1.109.43-1.245" transform="translate(-98.512 -112.315)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_10" data-name="Path 10" d="M1960.684,481.031v1.242h.962v-1.244" transform="translate(-54.424 -155.608)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_11" data-name="Path 11" d="M2012.931,481.031v1.242h.962v-1.244" transform="translate(-97.307 -155.608)" fill="#01031a" stroke="#1a1818" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
