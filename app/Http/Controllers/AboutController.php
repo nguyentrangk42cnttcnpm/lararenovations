@@ -14,8 +14,8 @@ class AboutController extends Controller
      */
     public function index()
     {
-        $service['service'] = Service::with('customer');
-        return view('web.about', $service);
+        
+        return view('web.about');
     }
 
     /**

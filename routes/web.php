@@ -22,3 +22,7 @@ use Illuminate\Support\Facades\Auth;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('about', [AboutController::class, 'index'])->name('about');
+
+Route::get('service', [ServiceController::class, 'index'])->name('service');
+
+Route::get('review', [ReviewController::class, 'index'])->name('review');
