@@ -2,10 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Service;
 use Illuminate\Http\Request;
 
-class ReviewController extends Controller
+class ServiceDetailController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +13,7 @@ class ReviewController extends Controller
      */
     public function index()
     {
-        return view('web.review');
+        return view('web.serviceDetail');
     }
 
     /**
