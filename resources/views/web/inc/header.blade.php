@@ -28,7 +28,7 @@
                             <ul class="ant-menu ant-menu-root ant-menu-inline ant-menu-light menu-inline" role="menu" tabindex="0" data-menu-list="true">
                                 <li class="ant-menu-item ant-menu-item-only-child" role="menuitem" tabindex="-1" data-menu-id="rc-menu-uuid-21148-1-home" style="padding-left: 24px;">
                                     <span class="ant-menu-title-content">
-                                        <a href="{{ route('home') }}">Home</a>
+                                        <a href="">Home</a>
                                     </span>
                                 </li>
                                 <li class="ant-menu-item ant-menu-item-only-child" role="menuitem" tabindex="-1" data-menu-id="rc-menu-uuid-21148-1-about" style="padding-left: 24px;">

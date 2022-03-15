@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\ServiceDetail;
 
 class ServiceDetailController extends Controller
 {
@@ -13,7 +14,12 @@ class ServiceDetailController extends Controller
      */
     public function index()
     {
-        return view('web.serviceDetail');
+        return view('web.service');
+    }
+
+    public function serviceDetail()
+    {
+        return view('web.service');
     }
 
     /**
