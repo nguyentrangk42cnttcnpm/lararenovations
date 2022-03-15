@@ -59,7 +59,7 @@
                     </div>
                 </div>
                 <p class="mb-0 p-view">
-                    <a href="">View Detail</a>
+                    <a href="{{ route('about') }}">View Detail</a>
                 </p>
             </div>
             <div class="ant-col ant-col-xs-24 ant-col-md-12 ant-col-lg-8 ant-col-xxl-6">
